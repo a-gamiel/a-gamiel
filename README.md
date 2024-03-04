@@ -18,7 +18,7 @@ I love to code and digital fabricating looking to make various ,challenging and 
 - 💬 **Ask me about**: AUTOSAR, Automotive Bus Technology Standards, Embedded systems, C, Software engineering, Computer and Processors Architecture, PCB design, PCB assembly, RTOS, Interfacing, Arduino, Design Patterns, Rasspberry Pi, ESPs.
 
 - 📫 **How to reach me**: catch, and follow me from the above links 👆, in addition to follow me here.
-- 💡 **My favourite Quote** ` "I read once, musicians don't retire. They stop when there's no more music in"`
+- 💡 **My favourite Quote** ` "There are better starters than me, but I am a strong finisher"`
 
 
 <hr/>
